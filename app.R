@@ -51,5 +51,6 @@ server <- function(input, output) {
   })
 }
 # Este no es un templo de la justicia 
+# Tampoco es un templo de la verdad
 # Run the application 
 shinyApp(ui = ui, server = server)
