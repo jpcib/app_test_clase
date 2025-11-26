@@ -12,8 +12,7 @@ ui <- fluidPage(
                   "Número de bins:",
                   min = 1,
                   max = 50,
-                  
-                  
+                  # otro comentario idstinto del feat 1
                   value = 30),
       
       sliderInput("range",
