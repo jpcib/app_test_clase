@@ -12,6 +12,7 @@ ui <- fluidPage(
                   "Número de bins:",
                   min = 1,
                   max = 50,
+                  # xdd
                   value = 30),
       
       sliderInput("range",
